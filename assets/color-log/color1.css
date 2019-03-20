@@ -1,0 +1,22 @@
+b,
+strong,
+.heading-home h2 span,
+ul#social li a:hover,
+.single-content i,
+#nav-menu li a:hover i,
+#nav-menu li a:focus i,
+#nav-menu li a:active i,
+#nav-menu li.active a i {
+    color: #00A5B2;
+}
+
+
+/* background color */
+
+.heading h2:before,
+.sub-details i,
+.submit-btn:hover,
+.submit-btn:focus,
+.page-layout a.button-close:hover {
+    background-color: #00A5B2;
+}
